@@ -77,9 +77,12 @@ p{
 }
 
 /* Title section */
+#title{
+    text-align: left;
+}
 #title .container-fluid{
     padding: 3% 10% 3%;
-    text-align: left;
+    
 }
 .title-image{
     transform: rotate(25deg);
